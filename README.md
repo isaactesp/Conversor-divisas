@@ -4,5 +4,3 @@ En el modelo de dominio se incluye la clase Divisa y la clase ColeccDivisa, que 
 
 # Despliegue
 Clonar el repositorio en local y abrir el archivo "PresentacionWindows" desde Visual Studio. 
-
-# Funcionalidades
