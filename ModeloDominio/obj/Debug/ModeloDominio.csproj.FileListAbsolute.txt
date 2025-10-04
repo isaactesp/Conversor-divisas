@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\PresentacionWindows\ModeloDominio\bin\Debug\ModeloDominio.dll
+C:\Users\User\source\repos\PresentacionWindows\ModeloDominio\bin\Debug\ModeloDominio.pdb
+C:\Users\User\source\repos\PresentacionWindows\ModeloDominio\obj\Debug\ModeloDominio.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PresentacionWindows\ModeloDominio\obj\Debug\ModeloDominio.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PresentacionWindows\ModeloDominio\obj\Debug\ModeloDominio.dll
+C:\Users\User\source\repos\PresentacionWindows\ModeloDominio\obj\Debug\ModeloDominio.pdb

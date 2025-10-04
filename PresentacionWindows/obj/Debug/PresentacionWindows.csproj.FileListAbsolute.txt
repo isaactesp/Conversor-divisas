@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\PresentacionWindows\PresentacionWindows\bin\Debug\PresentacionWindows.exe.config
+C:\Users\User\source\repos\PresentacionWindows\PresentacionWindows\bin\Debug\PresentacionWindows.exe
+C:\Users\User\source\repos\PresentacionWindows\PresentacionWindows\bin\Debug\PresentacionWindows.pdb
+C:\Users\User\source\repos\PresentacionWindows\PresentacionWindows\obj\Debug\PresentacionWindows.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PresentacionWindows\PresentacionWindows\obj\Debug\PresentacionWindows.Properties.Resources.resources
+C:\Users\User\source\repos\PresentacionWindows\PresentacionWindows\obj\Debug\PresentacionWindows.csproj.GenerateResource.cache
+C:\Users\User\source\repos\PresentacionWindows\PresentacionWindows\obj\Debug\PresentacionWindows.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PresentacionWindows\PresentacionWindows\obj\Debug\PresentacionWindows.exe
+C:\Users\User\source\repos\PresentacionWindows\PresentacionWindows\obj\Debug\PresentacionWindows.pdb
+C:\Users\User\source\repos\PresentacionWindows\PresentacionWindows\obj\Debug\PresentacionWindows.exe.config
+C:\Users\User\source\repos\PresentacionWindows\PresentacionWindows\obj\Debug\PresentacionWindows.Form1.resources
+C:\Users\User\source\repos\PresentacionWindows\PresentacionWindows\bin\Debug\LogicaNegocio.dll
+C:\Users\User\source\repos\PresentacionWindows\PresentacionWindows\bin\Debug\ModeloDominio.dll
+C:\Users\User\source\repos\PresentacionWindows\PresentacionWindows\bin\Debug\LogicaNegocio.pdb
+C:\Users\User\source\repos\PresentacionWindows\PresentacionWindows\bin\Debug\ModeloDominio.pdb
+C:\Users\User\source\repos\PresentacionWindows\PresentacionWindows\obj\Debug\Presenta.D3FF7C72.Up2Date
